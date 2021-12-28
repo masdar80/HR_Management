@@ -824,8 +824,8 @@ class LoadSettings extends StatelessWidget {
 
   /*Server*/
 
-  static String _server = 'http://188.247.90.187:81/HRTest/HR/';
-  //static String _server = 'http://51.89.69.99:81/HR/HR/';
+  static String _server = 'your API Services IP';
+
   //static String _server = '';
   static String getServer() {
     return _server;
